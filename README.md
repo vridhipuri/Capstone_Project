@@ -8,6 +8,7 @@ As per official estimates, there are about 3 million deaf children in India and 
 To develop an Android application, <strong>SignTutor</strong> to revolutionize English learning for primary school children with hearing and speaking difficulties by providing an interactive platform that enhances language acquisition.
 
 <h3>Proposed Work</h3>
+
 Collect a dataset of hand gestures respresenting the letters of the English Alphabet.
 Develop a Python model using deep learning and computer vision techniques to detect the hand gestures and recognize the alphabets.
 Integrate the model in an android application.
