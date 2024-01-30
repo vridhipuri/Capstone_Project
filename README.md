@@ -1,5 +1,5 @@
 <h1>SignTutor</h1>
-<h3>Introducion</h3>
+<h3>Introduction</h3>
 
 As per official estimates, there are about 3 million deaf children in India and about 25,000 such children take birth every year. It can be pretty challenging for someone with severe hearing loss to be able to learn how to read, which is why there are often high levels of illiteracy found amongst the deaf population.
 
